@@ -1,0 +1,17 @@
+== Cameron Brownfield Portfolio
+
+This contains all of the code for my entire portfolio, it shows an example of my coding practices. 
+The portfolio is built on a Ubuntu Linux Server, served up using Apache2 webserver. I also use passanger, 
+such that my server can handle many projects of all different types, to show off some of my work in different
+areas of expertise. Please feel free to browse through some of the content. 
+You can check out or return to my LinkedIn Account. 
+
+Some of the technologies exampled:
+
+*Ruby 
+*Ruby on Rails
+*Javascript
+*HTML5
+*CSS
+*Sass
+*CoffeeScript
