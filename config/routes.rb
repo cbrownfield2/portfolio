@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'contact' => 'contact#index'
+  get 'services' => 'services#index'
+  get 'skills' => 'skills#index'
+  get 'education' => 'education#index'
   root 'home#index'
 
   # The priority is based upon order of creation: first created -> highest priority.
