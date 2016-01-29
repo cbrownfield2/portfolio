@@ -615,3 +615,419 @@ Processing by ContactController#index as HTML
   Rendered contact/index.html.erb within layouts/application (0.0ms)
   Rendered layouts/_menu.html.erb (0.2ms)
 Completed 200 OK in 16ms (Views: 16.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 98.244.56.23 at 2016-01-29 06:17:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactController#index as HTML
+  Rendered contact/index.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_menu.html.erb (0.6ms)
+Completed 200 OK in 28ms (Views: 27.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/contact.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:17:52 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/education.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:17:52 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-710824a66bcd8ce92d6e0858ed6fa040c347ddf218ccc47b7854f937d00efb95.css?body=1" for 98.244.56.23 at 2016-01-29 06:17:52 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/services.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:17:52 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/skills.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:17:52 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-d1f02531d398333412f2bbe61dc0ce1a077f69bae61edf23d68519bf1b6a4f6c.css?body=1" for 98.244.56.23 at 2016-01-29 06:17:52 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:52 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:52 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:52 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/education.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:52 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/contact.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:52 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:52 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/services.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:52 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/skills.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:52 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-cdcd9d32bd8096724858f3628bae57832427f54b355ca0eb91d1f0747aeb454d.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:52 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/contact" for 98.244.56.23 at 2016-01-29 06:17:54 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactController#index as HTML
+  Rendered contact/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_menu.html.erb (0.2ms)
+Completed 200 OK in 17ms (Views: 16.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/contact.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:17:55 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/education.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:17:55 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/services.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:17:55 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-710824a66bcd8ce92d6e0858ed6fa040c347ddf218ccc47b7854f937d00efb95.css?body=1" for 98.244.56.23 at 2016-01-29 06:17:55 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/skills.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:17:55 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-d1f02531d398333412f2bbe61dc0ce1a077f69bae61edf23d68519bf1b6a4f6c.css?body=1" for 98.244.56.23 at 2016-01-29 06:17:55 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:55 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:55 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:55 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/contact.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:55 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/education.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:55 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:55 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/services.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:55 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/skills.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:55 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-cdcd9d32bd8096724858f3628bae57832427f54b355ca0eb91d1f0747aeb454d.js?body=1" for 98.244.56.23 at 2016-01-29 06:17:55 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/contact" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactController#index as HTML
+  Rendered contact/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_menu.html.erb (0.3ms)
+Completed 200 OK in 29ms (Views: 27.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/contact.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/education.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-710824a66bcd8ce92d6e0858ed6fa040c347ddf218ccc47b7854f937d00efb95.css?body=1" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/services.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/skills.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-b33958c5493151c85d26d67baf035e9183681ef57cd605f8ff6072cf967dc29b.css?body=1" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/contact.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/education.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/services.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/skills.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-cdcd9d32bd8096724858f3628bae57832427f54b355ca0eb91d1f0747aeb454d.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:40 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/services" for 98.244.56.23 at 2016-01-29 06:18:42 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ServicesController#index as HTML
+  Rendered services/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_menu.html.erb (0.6ms)
+Completed 200 OK in 16ms (Views: 15.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/services" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ServicesController#index as HTML
+  Rendered services/index.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_menu.html.erb (0.3ms)
+Completed 200 OK in 35ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/contact.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/education.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-710824a66bcd8ce92d6e0858ed6fa040c347ddf218ccc47b7854f937d00efb95.css?body=1" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/services.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/skills.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-fd913af96097f17f368e97237225f83dfe948509e20a226db53fd1481c729d2b.css?body=1" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/contact.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/education.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/services.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/skills.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-cdcd9d32bd8096724858f3628bae57832427f54b355ca0eb91d1f0747aeb454d.js?body=1" for 98.244.56.23 at 2016-01-29 06:18:51 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/services" for 98.244.56.23 at 2016-01-29 06:19:10 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ServicesController#index as HTML
+  Rendered services/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_menu.html.erb (0.3ms)
+Completed 200 OK in 27ms (Views: 27.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/contact.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:19:10 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/education.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:19:10 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-710824a66bcd8ce92d6e0858ed6fa040c347ddf218ccc47b7854f937d00efb95.css?body=1" for 98.244.56.23 at 2016-01-29 06:19:10 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/services.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:19:10 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/skills.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:19:10 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3cb6e6ec36a983f0301233da01d57c454addcfb41c52227eaaf986069d90ba7a.css?body=1" for 98.244.56.23 at 2016-01-29 06:19:10 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 98.244.56.23 at 2016-01-29 06:19:11 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 98.244.56.23 at 2016-01-29 06:19:11 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 98.244.56.23 at 2016-01-29 06:19:11 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/contact.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:19:11 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/education.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:19:11 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:19:11 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-cdcd9d32bd8096724858f3628bae57832427f54b355ca0eb91d1f0747aeb454d.js?body=1" for 98.244.56.23 at 2016-01-29 06:19:11 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/skills.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:19:11 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/services.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:19:11 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/services" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ServicesController#index as HTML
+  Rendered services/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_menu.html.erb (0.6ms)
+Completed 200 OK in 26ms (Views: 25.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/education.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-710824a66bcd8ce92d6e0858ed6fa040c347ddf218ccc47b7854f937d00efb95.css?body=1" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/services.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/skills.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/contact.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-a4c5198a1d8269ef923e73ccb477a4fda53fe83a2fd23851855ccf14f9b19bac.css?body=1" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/contact.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/education.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/services.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/skills.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-cdcd9d32bd8096724858f3628bae57832427f54b355ca0eb91d1f0747aeb454d.js?body=1" for 98.244.56.23 at 2016-01-29 06:46:43 +0000
+Cannot render console from 98.244.56.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255

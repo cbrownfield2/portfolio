@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+
+#header{
+	background-color: #ff0000
+}
+
+#body{
+	background-color: #00ff00
+}
+
+#footer{
+	background-color: #0000ff
+}
+
+#menu {
+	/*Style for Menu goes here*/
+	background-color: #000000
+}
+
+#menu a {
+	/*Style for Menu Links go here*/
+	color: #ff0000
+}
